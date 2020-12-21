@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-wordpress",
-  "description": "Gatsby v2 starter for WordPress",
+  "name": "fortis-group-staging",
+  "description": "",
   "version": "0.1.0",
   "author": "GatsbyCentral.com",
   "dependencies": {
@@ -27,9 +27,7 @@
     "react-helmet": "^5.2.1",
     "uuid": "^3.3.3"
   },
-  "keywords": [
-    "gatsby"
-  ],
+  "keywords": [],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
